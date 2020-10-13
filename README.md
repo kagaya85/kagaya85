@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📺 Welcome to my [Bangumi page](https://bangumi.tv/user/kagaya85)
 - 🏃‍♂️ Keep going and don't stop
 
-
+![](https://img.shields.io/badge/-Vue.js-5CAF7E?style=flat&logoColor=fff)
 ![](https://img.shields.io/badge/-Golang-49A5CC?style=flat&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-AB7221?style=flat&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff)
