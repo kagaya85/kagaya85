@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🏫 Undergraduate studies at Tongji University，now studying at Fudan University for a master's degree
+- 🏫 Tongji University / Fudan University 👉 Now
 - 🔭 Currently working on microservice observability
 - 📺 Welcome to my [Bangumi page](https://bangumi.tv/user/kagaya85)
 - 🏃‍♂️ Keep going and don't stop
