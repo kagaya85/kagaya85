@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🏫 Tongji University / Fudan University 👉 Now
 - 🔭 Currently working on microservice observability
-- 📺 Welcome to my [Bangumi page](https://bangumi.tv/user/kagaya85)
+- 📺 Welcome to my [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop
 
 ![](https://img.shields.io/badge/-Vue.js-5CAF7E?style=flat&logoColor=fff)
