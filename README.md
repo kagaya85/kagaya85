@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 你好，欢迎来到我的Github (๑•̀ㅂ•́)و✧
 
+<img src="ireina.gif" width="400" />
+
 #### About me:
 
 - 🏫 Tongji University / Fudan University 👉 Now
