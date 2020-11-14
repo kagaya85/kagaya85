@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 你好，欢迎来到我的Github (๑•̀ㅂ•́)و✧
 
-<img src="ireina.gif" width="400" />
+<img src="ireina.gif" width="300" />
 
 #### About me:
 
