@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### About me:
 
 - 🏫 Tongji University / Fudan University 👉 Now
-- 🔭 Currently working on microservice observability
+- 🔭 Currently working on Cloud Native & AIOps
 - 📺 Welcome to my [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop
 
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=fff)
 ![visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85)
+
