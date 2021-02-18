@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### About me:
 
 - 🏫 Tongji University / Fudan University 👉 Now
-- 🔭 Currently working on Cloud Native & AIOps
+- 🔭 Currently working on Cloud Native & AIOps / Gopeher
 - 📺 Welcome to my [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop
 
