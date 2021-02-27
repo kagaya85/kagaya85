@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 
 #### About me:
 
+- 🏷️ Gopher / Cloud Native / ACG
+- 🔭 Currently working on AIOps & RCL
 - 🏫 Tongji University / Fudan University 👉 Now
-- 🔭 Currently working on Cloud Native & AIOps / Gopher
 - 📺 Welcome to my [Bangumi](https://bangumi.tv/user/kagaya85) page
-- 🏃‍♂️ Keep going and don't stop
+- 🏃‍♂️ Keep going and don't stop; 
+- 🌈Let's code the fantastic world;
 
 ![](https://img.shields.io/badge/-Vue.js-5CAF7E?style=flat&logoColor=fff)
 ![](https://img.shields.io/badge/-Golang-49A5CC?style=flat&logo=Go&logoColor=fff)
