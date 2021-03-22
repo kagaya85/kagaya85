@@ -13,29 +13,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kagaya85&show_icons=true&hide_border=true&icon_color=586069">
-</a>
-
 ### Hi there, Welcome to my Github homepage 👋
 
 你好，欢迎来到我的Github (๑•̀ㅂ•́)و✧
 
-<img src="ireina.gif" width="300" />
+<img src="img/irena.gif" width="300" />
 
-#### About me:
+#### About me
 
 - 🏷️ Gopher / Cloud Native / ACG
-- 🔭 Currently working on AIOps & RCL
+- 🔭 Currently working on AIOps / RCL / Tracing Analysis
 - 🏫 Tongji University / Fudan University 👉 Now
-- 📺 Welcome to my [Bangumi](https://bangumi.tv/user/kagaya85) page
-- 🏃‍♂️ Keep going and don't stop; 
-- 🌈Let's code the fantastic world;
+- 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
+- 🏃‍♂️ Keep going and don't stop;
 
-![](https://img.shields.io/badge/-Vue.js-5CAF7E?style=flat&logoColor=fff)
-![](https://img.shields.io/badge/-Golang-49A5CC?style=flat&logo=Go&logoColor=fff)
-![](https://img.shields.io/badge/-Java-AB7221?style=flat&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=fff)
-![visitors](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85)
+<details>
+    <summary><b>🌈Something more:</b></summary>
+    <br>
 
+<p aligin="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagaya85&hide_langs_below=1&theme=default&line_height=27&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kagaya85&show_icons=true&hide_border=true&icon_color=586069">
+</p>
+
+#### Working with
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="rust" width="40" height="40"/>
+</p>
+
+#### Interested in
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="rust" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+</p>
+
+#### Something may use
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+</details>
+
+---
+
+<p align="center">
+    <i>Let's code the fantastic world</i>
+</p>
+
+<p align="center">
+    <a href="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85"></a>
+</p>
+
+---
