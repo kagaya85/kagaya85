@@ -32,8 +32,8 @@ Here are some ideas to get you started:
     <br>
 
 <p aligin="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagaya85&hide_langs_below=1&theme=default&line_height=27&layout=compact"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kagaya85&show_icons=true&hide_border=true&icon_color=586069">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=kagaya85&show_icons=true&hide_border=true&icon_color=586069&theme=vue-dark">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagaya85&hide_langs_below=1&theme=vue-dark&line_height=27&layout=compact"/>
 </p>
 
 #### Working with
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a href="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85"></a>
+    <img src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85"></img>
 </p>
 
 ---
