@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏷️ Gopher / Cloud Native / ACG
 - 🔭 Currently working on AIOps / RCL / Tracing Analysis
-- 🏫 Tongji University / Fudan University 👉 Now
+- 🏫 TJU / FDU 👉 Now
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
 
