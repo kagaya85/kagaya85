@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🏷️ Gopher / Cloud Native / ACG
+- 🏷️ Gopher / Distributed System / Cloud Native / ACG
 - 🔭 Currently working on AIOps / AD&RCL / Tracing Analysis
 - 🏫 TJU / FDU 👉 Now
+- 🚀 Participate in [SkyWalking](https://github.com/apache/skywalking) and [Kratos](https://github.com/go-kratos/kratos) community
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
 
@@ -38,14 +39,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="rust" width="40" height="40"/>
-</p>
-
-#### Interested in
-
-<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="rust" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 </p>
 
 #### Something may use
@@ -54,7 +48,14 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="rust" width="40" height="40"/>
 </p>
+
+#### Interested in
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+</p>    
 
 </details>
 
