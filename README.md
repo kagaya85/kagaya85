@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🏷️ Gopher / Distributed System / Cloud Native / ACG
 - 🔭 Currently working on AIOps / AD&RCL / Tracing Analysis
 - 🏫 TJU / FDU 👉 Now
-- 🚀 Participate in [SkyWalking](https://github.com/apache/skywalking) and [Kratos](https://github.com/go-kratos/kratos) community
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
 
