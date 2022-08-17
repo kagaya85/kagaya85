@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### About me:
 
 - 🏷️ Gopher / Distributed System / Cloud Native / ACG
-- 🔭 Currently working on AIOps / Tracing Analysis
+- 🔭 Currently working on DevOps / AIOps / Tracing Analysis
 - 🏫 TJU / FDU 👉 Now
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
