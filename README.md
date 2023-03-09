@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🏷️ Gopher / Distributed System / Cloud Native / ACG
-- 🔭 Currently working on DevOps / AIOps / Tracing Analysis
-- 🏫 TJU / FDU 👉 Now
+- 🏷️ Gopher / Cloud Native / ACGer
+- 🔭 Currently working on DevOps & Kubernetes
+- 🏫 Graduated from TJU / FDU 👉 Now a @Transwarp Cloud Engineer
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
 
