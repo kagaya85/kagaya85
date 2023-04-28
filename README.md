@@ -66,8 +66,5 @@ Here are some ideas to get you started:
 <p align="center">
     <i>Let's code the fantastic world!!!</i>
 </p>
-<p align="center">
-    <img src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kagaya85.kagaya85"></img>
-</p>
 
 ---
