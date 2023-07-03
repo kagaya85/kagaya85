@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🏷️ Gopher / Cloud Native / ACGer
-- 🔭 Currently working on DevOps & Kubernetes
+- 🏷️ Gopher / Cloud Platform Engineer / ACGer
+- 🔭 Currently working on Kubernetes
 - 🏫 Graduated from TJU / FDU 👉 Now a @Transwarp Cloud Engineer
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
 - 🏃‍♂️ Keep going and don't stop;
