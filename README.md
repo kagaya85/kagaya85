@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 #### About me:
 
 - 🏷️ Gopher / Cloud Platform Engineer / ACGer
-- 🔭 Currently working on Kubernetes
+- 🔭 Currently working on Kubernetes Developing
 - 🏫 Graduated from TJU / FDU 👉 Now as a Cloud Infrastructure Engineer
 - 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
-- 🏃‍♂️ Keep going and don't stop;
+- 🏃‍♂️ Hope for the BEST and Prepare for the WORST;
 
 <details>
     <summary><b>🌈 Something more(click here):</b></summary>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 #### Interested in
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 </p>    
 
 </details>
