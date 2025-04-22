@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, Welcome to my Github homepage 👋
-**你好，欢迎来到我的Github (๑•̀ㅂ•́)و✧**
+**嗨，欢迎来到我的Github (๑•̀ㅂ•́)و✧**
 
 #### About me:
 
-- 🏷️ Gopher / Cloud Platform Engineer / ACGer
-- 🔭 Currently working on Kubernetes Developing
-- 🏫 Graduated from TJU / FDU 👉 Now as a Cloud Infrastructure Engineer
-- 📺 See more about my interests in [Bangumi](https://bangumi.tv/user/kagaya85) page
-- 🏃‍♂️ Hope for the BEST and Prepare for the WORST;
+- 🏷️ Gopher ｜ Cloud Engineer｜ ACGer
+- 🌈 Open Source & Open Mind
+- 🔭 Currently working on Kubernetes
+- 🏫 Graduated from TJU & FDU
+- 📺 Do you want more Anime? See here 👉 [Bangumi](https://bangumi.tv/user/kagaya85)
+- 🏃‍♂️ **Be Creative!**
+
+> *「日々私たちが过ごしている日常というのは、実は奇迹の连続なのかもしれん」*
 
 <details>
     <summary><b>🌈 Something more(click here):</b></summary>
