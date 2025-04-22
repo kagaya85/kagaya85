@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🏷️ Gopher ｜ Cloud Engineer｜ ACGer
 - 🌈 Open Source & Open Mind
-- 🔭 Currently working on Kubernetes
+- 🔭 Working on Kubernetes
 - 🏫 Graduated from TJU & FDU
 - 📺 Do you want more Anime? See here 👉 [Bangumi](https://bangumi.tv/user/kagaya85)
 - 🏃‍♂️ **Be Creative!**
