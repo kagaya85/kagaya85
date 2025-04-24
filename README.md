@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### About me:
 
-- 🌈 Open Source & Open Mind
+- ❤️ Open Source & Open Mind
 - 🔭 Working on Kubernetes
 - 🏫 Graduated from TJU & FDU
 - 📺 Do you want more Anime? See here 👉 [Bangumi](https://bangumi.tv/user/kagaya85)
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <img src="img/irena.gif" width="300" />
 </p>
 <p align="center">
-    <i>Let's code the fantastic world!!!</i>
+    <i>Hope for the best and prepare for the worst;</i>
 </p>
 
 ---
